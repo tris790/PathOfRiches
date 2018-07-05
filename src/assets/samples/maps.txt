@@ -1,0 +1,58 @@
+Rarity: Unique
+Bone Crypt Map
+--------
+Map Tier: 7
+--------
+Item Level: 82
+--------
+Unidentified
+--------
+Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+
+Rarity: Unique
+Olmec's Sanctum
+Bone Crypt Map
+--------
+Map Tier: 7
+Item Quantity: +167% (augmented)
+--------
+Item Level: 82
+--------
+44% more Monster Life
+37% increased Monster Damage
+Final Boss drops higher Level Items
+--------
+They flew, and leapt, and clambered over,
+They crawled, and swam, and slithered under.
+Still its ancient secrets await unclaimed
+And of this hidden temple, only legends remain.
+--------
+Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+
+Rarity: Normal
+Alleyways Map
+--------
+Map Tier: 2
+--------
+Item Level: 74
+--------
+Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+
+Rarity: Rare
+Forbidden Shadows
+Alleyways Map
+--------
+Map Tier: 2
+Item Quantity: +61% (augmented)
+Item Rarity: +36% (augmented)
+Monster Pack Size: +23% (augmented)
+--------
+Item Level: 72
+--------
+16% increased Monster Damage
++20% Monster Physical Damage Reduction
+Monsters deal 65% extra Damage as Cold
+Players have 15% less Area of Effect
+--------
+Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+

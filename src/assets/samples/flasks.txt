@@ -1,0 +1,65 @@
+Rarity: Magic
+Seething Divine Life Flask of Staunching
+--------
+Quality: +20% (augmented)
+Recovers 979 (augmented) Life over 7.00 Seconds
+Consumes 15 of 45 Charges on use
+Currently has 45 Charges
+--------
+Requirements:
+Level: 60
+--------
+Item Level: 71
+--------
+66% reduced Amount Recovered
+Instant Recovery
+Immunity to Bleeding during Flask effect
+Removes Bleeding on use
+--------
+Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+
+
+Rarity: Unique
+Lavianga's Spirit
+Sanctified Mana Flask
+--------
+Quality: +20% (augmented)
+Recovers 1688 (augmented) Mana over 7.00 (augmented) Seconds
+Consumes 10 of 40 Charges on use
+Currently has 0 Charges
+--------
+Requirements:
+Level: 50
+--------
+Item Level: 76
+--------
+34% increased Amount Recovered
+100% increased Recovery rate
+Your Skills have no Mana Cost during Flask effect
+--------
+"When the Ancestors fill your cup,
+It is only good manners to drink your fill."
+- Lavianga, Advisor to Kaom
+--------
+Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
+
+
+Rarity: Magic
+Experimenter's Diamond Flask of Warding
+--------
+Quality: +20% (augmented)
+Lasts 6.20 (augmented) Seconds
+Consumes 20 of 40 Charges on use
+Currently has 40 Charges
+Your Critical Strike Chance is Lucky
+--------
+Requirements:
+Level: 27
+--------
+Item Level: 62
+--------
+Immune to Curses during Flask effect
+Removes Curses on use
+36% increased Duration
+--------
+Lucky means that a number is rolled twice and the best result is picked. Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.

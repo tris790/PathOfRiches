@@ -1,0 +1,37 @@
+Rarity: Gem
+Faster Attacks Support
+--------
+Attack, Support
+Level: 20 (Max)
+Mana Multiplier: 115%
+Quality: +20% (augmented)
+--------
+Requirements:
+Level: 70
+Dex: 111
+--------
+Supports attack skills.
+--------
+Supported Skills have 54% increased Attack Speed
+--------
+This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.
+
+Rarity: Gem
+Portal
+--------
+Spell
+Level: 1 (Max)
+Mana Cost: 0
+Cast Time: 2.50 sec
+Quality: +23% (augmented)
+--------
+Requirements:
+Level: 10
+--------
+Creates a portal to the current area's town.
+--------
+69% increased Cast Speed
+--------
+Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.
+--------
+Corrupted

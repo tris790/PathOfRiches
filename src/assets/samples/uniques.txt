@@ -1,0 +1,72 @@
+Rarity: Unique
+Tabula Rasa
+Simple Robe
+--------
+Sockets: W-W-W-W-W-W 
+--------
+Item Level: 67
+--------
+17% chance to Avoid being Ignited
+--------
+Corrupted
+
+Rarity: Unique
+The Gull
+Raven Mask
+--------
+Quality: +20% (augmented)
+Evasion Rating: 265 (augmented)
+Energy Shield: 145 (augmented)
+--------
+Requirements:
+Level: 60
+Dex: 44
+Int: 44
+--------
+Sockets: B R-G-G 
+--------
+Item Level: 66
+--------
+300% increased Ice Spear Critical Strike Chance in second form
+--------
+Trigger Level 1 Create Lesser Shrine when you Kill an Enemy
+135% increased Evasion and Energy Shield
++36 to maximum Energy Shield
++77 to maximum Life
++30% to Cold Resistance
+75% increased Effect of Shrine Buffs on you
+50% increased Duration of Shrine Effects on you
+--------
+"It is the Gull that delivers Man unto Ancestor.
+The consumer of our flesh. The seeder of our
+souls unto the earth. We give the Gull his life.
+The Gull gives us our Way."
+- Lavianga, Advisor to Kaom
+
+Rarity: Unique
+Saqawal's Nest
+Blood Raiment
+--------
+Evasion Rating: 578 (augmented)
+Energy Shield: 212 (augmented)
+--------
+Requirements:
+Level: 65
+Dex: 107
+Int: 90
+--------
+Sockets: B-G G 
+--------
+Item Level: 72
+--------
++50 to all Attributes
++37% to Lightning Resistance
+9% reduced Mana Reserved
+100% increased Aspect of the Avian Buff Effect
+Aspect of the Avian also grants Avian's Might and Avian's Flight to nearby Allies
++142 to Evasion Rating and Energy Shield
+--------
+The First of the Sky was the Last of the First.
+It was he who showed us that our limits are self-imposed,
+that what we take for law may just be an illusion.
+
